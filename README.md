@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **lippePinheiro31/lippePinheiro31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Felippe Pinheiro
+
 Meu nome é Felippe, estou np 2° ano do curso técnico de Análise e Desenvolvimento de Sistemas da Etec Sebrae, atualmente estudo tanto front quanto backend para me tornar um desenvolvedor fullstack!
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">;
