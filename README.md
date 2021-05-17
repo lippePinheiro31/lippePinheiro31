@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I started do learn code when i was 14 and i still love the thrill of solving problems.
 
 
-Meu nome é Felippe Pinheiro, estou np 2° ano do curso técnico de Análise e Desenvolvimento de Sistemas na Etec Sebrae - SP, atualmente estudo tecnologias front e backend para futuramente me tornar um desenvolvedor fullstack!
+Meu nome é Felippe Pinheiro, estou no 2° ano do curso técnico de Análise e Desenvolvimento de Sistemas na Etec Sebrae - SP, atualmente estudo tecnologias front e backend para futuramente me tornar um desenvolvedor fullstack!
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">;
 <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
