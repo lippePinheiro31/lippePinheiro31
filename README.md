@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Felippe Pinheiro
-Me chamo Felippe, estou np 2° ano do curso técnico de Análise e Desenvolvimento de Sistemas, atualmente estudo tanto front quanto backend para me tornar um desenvolvedor fullstack!
+Meu nome é Felippe, estou np 2° ano do curso técnico de Análise e Desenvolvimento de Sistemas da Etec Sebrae, atualmente estudo tanto front quanto backend para me tornar um desenvolvedor fullstack!
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">;
 <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
