@@ -8,12 +8,6 @@
 
 Meu nome é Felippe Pinheiro, estou no 2° ano do curso técnico de Análise e Desenvolvimento de Sistemas na Etec Sebrae - SP, atualmente estudo tecnologias front e backend para futuramente me tornar um desenvolvedor fullstack!
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">;
-<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" a href="https://www.linkedin.com/in/felippe-pinheiro-2a8629206/">
-<img src="	https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-
 
 ### Linguagens & Frameworks com as quais estou familiarizado
 
