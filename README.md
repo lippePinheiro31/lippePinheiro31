@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning HTML, CSS, JS, PHP, MYSQL, LARAVEL,C#...
 - 📫 How to reach me: Discord => Felps S2 you#2849
 - ⚡ Fun fact: I started do learn code when i was 14 and i still love the thrill of solving problems.
--->
+
 
 Meu nome é Felippe Pinheiro, estou np 2° ano do curso técnico de Análise e Desenvolvimento de Sistemas na Etec Sebrae - SP, atualmente estudo tecnologias front e backend para futuramente me tornar um desenvolvedor fullstack!
 
