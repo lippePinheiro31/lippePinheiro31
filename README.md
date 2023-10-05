@@ -1,6 +1,6 @@
 # Hi there 👋.
 
-- 🔭 I've graduated in ANALYSIS AND SYSTEMS DEVELOPMENT/ TECHNICAL HIGHSCHOOL in Etec Sebrae - SÃO PAULO
+- 🔭 I've graduated in ANALYSIS AND SYSTEMS DEVELOPMENT on the TECHNICAL HIGHSCHOOL Etec Sebrae - SÃO PAULO
 - 🌱 I’m currently learning Ruby on rails
 - 📫 How to reach me: Discord => Felps S2 you#2849
 - ⚡ Fun fact: I started to learn code when i was 14 and i still love the thrill of solving problems.
