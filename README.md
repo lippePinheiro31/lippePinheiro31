@@ -1,9 +1,9 @@
 # Hi there 👋.
 
-- 🔭 I’m currently studying ANALYSIS AND SYSTEMS DEVELOPMENT/ Second grade in Etec Sebrae - SP...
-- 🌱 I’m currently learning HTML, CSS, JS, PHP, MYSQL, C#...
+- 🔭 I've graduated in ANALYSIS AND SYSTEMS DEVELOPMENT/ TECHNICAL HIGHSCHOOL in Etec Sebrae - SÃO PAULO
+- 🌱 I’m currently learning Ruby on rails
 - 📫 How to reach me: Discord => Felps S2 you#2849
-- ⚡ Fun fact: I started do learn code when i was 14 and i still love the thrill of solving problems.
+- ⚡ Fun fact: I started to learn code when i was 14 and i still love the thrill of solving problems.
 
 ###  Languages & Technologies  with which I am familiar
 
