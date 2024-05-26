@@ -1,9 +1,9 @@
 # Hi there 👋.
 
-- 🔭 I've graduated in ANALYSIS AND SYSTEMS DEVELOPMENT on the TECHNICAL HIGHSCHOOL Etec Sebrae - SÃO PAULO
-- 🌱 I’m currently learning Ruby on rails
-- 📫 How to reach me: Discord => Felps S2 you#2849
-- ⚡ Fun fact: I started to learn code when i was 14 and i still love the thrill of solving problems.
+- 🔭 I'm currently studying ANALYSIS AND SYSTEMS DEVELOPMENT at Anhembi Morumbi University and i've graduated in ANALYSIS AND SYSTEMS DEVELOPMENT as well on the TECHNICAL HIGHSCHOOL Etec Sebrae - SÃO PAULO 
+- 🌱 I’m currently learning JAVA and Spring Boot
+- 📫 How to reach me: Discord => Felps S2 you#2849 / ig: @lippe.pnhrx
+- ⚡ Fun fact: I've started coding when i was 14 and i still love the thrill of face problems and create solutions.
 
 ###  Languages & Technologies  with which I am familiar
 
