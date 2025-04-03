@@ -1,6 +1,6 @@
 # Hi there 👋.
 
-- 🔭 I'm currently studying ANALYSIS AND SYSTEMS DEVELOPMENT at Anhembi Morumbi University and i've graduated in ANALYSIS AND SYSTEMS DEVELOPMENT as well on the TECHNICAL HIGHSCHOOL Etec Sebrae - SÃO PAULO 
+- 🔭 I'm currently studying ANALYSIS AND SYSTEMS DEVELOPMENT at São Paulo College of Technology(FATEC SP) graduated in ANALYSIS AND SYSTEMS DEVELOPMENT as well on the TECHNICAL HIGHSCHOOL Etec Sebrae - SÃO PAULO 
 - 🌱 I’m currently learning JAVA and Spring Boot
 - 📫 How to reach me: Discord => Felps S2 you#2849 / ig: @lippe.pnhrx
 - ⚡ Fun fact: I've started coding when i was 14 and i still love the thrill of facing problems and create solutions.
