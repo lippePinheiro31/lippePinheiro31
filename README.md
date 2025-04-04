@@ -4,7 +4,7 @@
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="380" height="220">
 
-🔭 Atualmente estudando Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São Paulo (FATEC SP) e com habilitação técnica e profissional em ADS pelo Ensino Médio Técnico na Etec Sebrae - São Paulo.
+🔭 Atualmente estudando Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São Paulo (FATEC SP) e com habilitação técnica profissional em ADS pelo Ensino Médio Técnico na Etec Sebrae - São Paulo.
 
 🌱 No momento estou aprendendo Engenharia de Dados e estudando tecnologias como Python, Pandas, ETL, SQL, Web Scraping e Power BI/Excel.
 
