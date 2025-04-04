@@ -1,8 +1,10 @@
 # Hi there 👋.
 
+<img src="https://img.shields.io/badge/Procurando%20Estágio-32CD32?style=for-the-badge&logo=Handshake&logoColor=white">
+
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="380" height="220">
 
-- 🔭 I'm currently studying ANALYSIS AND SYSTEMS DEVELOPMENT at São Paulo College of Technology(FATEC SP) graduated in ANALYSIS AND SYSTEMS DEVELOPMENT as well on the TECHNICAL HIGHSCHOOL Etec Sebrae - SÃO PAULO 
+- 🔭 I'm currently studying ANALYSIS AND SYSTEMS DEVELOPMENT at São Paulo College of Technology(FATEC SP) I'm graduated in ANALYSIS AND SYSTEMS DEVELOPMENT as well on the TECHNICAL HIGHSCHOOL Etec Sebrae - SÃO PAULO 
 - 🌱 I’m currently learning Data Engineering studying Python, Pandas, ETL, SQL, Web Scraping and Power Bi/Excel
 - 📫 How to reach me: Discord => Felps S2 you#2849 / ig: @lippe.pnh
 - ⚡ Fun fact: I've started coding when i was 14 and i still love the thrill of facing problems and create solutions.
