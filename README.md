@@ -1,5 +1,7 @@
 # Hi there 👋.
 
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
 - 🔭 I'm currently studying ANALYSIS AND SYSTEMS DEVELOPMENT at São Paulo College of Technology(FATEC SP) graduated in ANALYSIS AND SYSTEMS DEVELOPMENT as well on the TECHNICAL HIGHSCHOOL Etec Sebrae - SÃO PAULO 
 - 🌱 I’m currently learning Data Engineering studying Python, Pandas, ETL, SQL, Web Scraping and Power Bi/Excel
 - 📫 How to reach me: Discord => Felps S2 you#2849 / ig: @lippe.pnh
