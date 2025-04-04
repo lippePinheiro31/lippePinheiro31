@@ -1,6 +1,6 @@
 # Hi there 👋.
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350" height="220">
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="380" height="220">
 
 - 🔭 I'm currently studying ANALYSIS AND SYSTEMS DEVELOPMENT at São Paulo College of Technology(FATEC SP) graduated in ANALYSIS AND SYSTEMS DEVELOPMENT as well on the TECHNICAL HIGHSCHOOL Etec Sebrae - SÃO PAULO 
 - 🌱 I’m currently learning Data Engineering studying Python, Pandas, ETL, SQL, Web Scraping and Power Bi/Excel
