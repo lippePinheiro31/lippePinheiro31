@@ -1,6 +1,6 @@
 # Opaa, bão?👋.
 
-<img src="https://img.shields.io/badge/Procurando%20Estágio-32CD32?style=for-the-badge&logo=Handshake&logoColor=white"> <img src="https://img.shields.io/badge/Atualmente%20Procurando%20uma%20oportunidade%20de%20est%C3%A1gio%20em%20Engenharia%20de%20Dados-FFA500?style=for-the-badge&logo=Handshake&logoColor=white">
+<img src="https://img.shields.io/badge/Procurando%20Estágio-32CD32?style=for-the-badge&logo=Handshake&logoColor=white"> <img src="https://img.shields.io/badge/Procurando%20uma%20oportunidade%20de%20est%C3%A1gio%20em%20Engenharia%20de%20Dados-FFA500?style=for-the-badge&logo=Handshake&logoColor=white">
 
 
 
