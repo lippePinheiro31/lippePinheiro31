@@ -12,7 +12,7 @@
 
 📫 Como me encontrar: Discord => Felps S2 you#2849 / Instagram: @lippe.pnh 
 
-⚡ Curiosidade: Comecei a programar aos 14 anos e ainda adoro a emoção de enfrentar problemas e criar soluções. 🚀
+⚡ Curiosidade: Comecei a programar aos 14 anos e ainda adoro a emoção de enfrentar problemas e criar soluções. 🚀 
 
 ###  Linguagens e tecnologias que estou estudando no momento
 
