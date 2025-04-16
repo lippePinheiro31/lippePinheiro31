@@ -10,7 +10,7 @@
 
 🌱 No momento estou aprendendo Engenharia de Dados e estudando tecnologias como Python, Pandas, ETL, SQL, Web Scraping e Power BI/Excel.
 
-📫 Como me encontrar: Discord => Felps S2 you#2849 / Instagram: @lippe.pnh 
+📫 Como me encontrar: Discord => Felps S2 you#2849 / Instagram: @lippe.pnh  
 
 ⚡ Curiosidade: Comecei a programar aos 14 anos e ainda adoro a emoção de enfrentar problemas e criar soluções. 🚀 
 
