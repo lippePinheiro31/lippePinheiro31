@@ -13,7 +13,7 @@
 📫 Como me encontrar: Discord => Felps S2 you#2849 / Instagram: @lippe.pnh  
 
 ⚡ Curiosidade: Comecei a programar aos 14 anos e ainda adoro a emoção de enfrentar problemas e criar soluções. 🚀 
-
+ 
 ###  Linguagens e tecnologias que estou estudando no momento
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
